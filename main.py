@@ -22,7 +22,7 @@ logo_css = """
 # HTML for the logo links
 logo_html = f"""
 <div>
-    <a href="www.linkedin.com/in/alexander-johae-a82363211" target="_blank" class="logo-link">
+    <a href="https://www.linkedin.com/in/alexander-johae-a82363211" target="_blank" class="logo-link">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" class="logo-img">
     </a>
     <a href="https://github.com/alex8098" target="_blank" class="logo-link">
