@@ -51,4 +51,4 @@ elif page == "Machine Learning Playground":
 
 # Add footer
 st.sidebar.markdown("---")
-st.sidebar.markdown("© 2024 Your Name. All rights reserved.")
+st.sidebar.markdown("Feel free to clone or modify the code for your own use. If you have any questions or suggestions, please reach out to me on LinkedIn or GitHub.")
