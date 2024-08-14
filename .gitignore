@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
